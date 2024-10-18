@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\HomePC\\source\\repos\\Urgent-2k-Finance\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98D9EBAC-599E-4910-8A13-307B85AEDD63}|Urgent-2k-Finance\\Urgent-2k-Finance.csproj|c:\\users\\homepc\\source\\repos\\urgent-2k-finance\\urgent-2k-finance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D9EBAC-599E-4910-8A13-307B85AEDD63}|Urgent-2k-Finance\\Urgent-2k-Finance.csproj|solutionrelative:urgent-2k-finance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D9EBAC-599E-4910-8A13-307B85AEDD63}|Urgent-2k-Finance\\Urgent-2k-Finance.csproj|c:\\users\\homepc\\source\\repos\\urgent-2k-finance\\urgent-2k-finance\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98D9EBAC-599E-4910-8A13-307B85AEDD63}|Urgent-2k-Finance\\Urgent-2k-Finance.csproj|solutionrelative:urgent-2k-finance\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D9EBAC-599E-4910-8A13-307B85AEDD63}|Urgent-2k-Finance\\Urgent-2k-Finance.csproj|c:\\users\\homepc\\source\\repos\\urgent-2k-finance\\urgent-2k-finance\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D9EBAC-599E-4910-8A13-307B85AEDD63}|Urgent-2k-Finance\\Urgent-2k-Finance.csproj|solutionrelative:urgent-2k-finance\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D9EBAC-599E-4910-8A13-307B85AEDD63}|Urgent-2k-Finance\\Urgent-2k-Finance.csproj|c:\\users\\homepc\\source\\repos\\urgent-2k-finance\\urgent-2k-finance\\urgent-2k-finance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{98D9EBAC-599E-4910-8A13-307B85AEDD63}|Urgent-2k-Finance\\Urgent-2k-Finance.csproj|solutionrelative:urgent-2k-finance\\urgent-2k-finance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +26,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\Urgent-2k-Finance\\Urgent-2k-Finance\\Program.cs",
+              "RelativeDocumentMoniker": "Urgent-2k-Finance\\Program.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\Urgent-2k-Finance\\Urgent-2k-Finance\\Program.cs",
+              "RelativeToolTip": "Urgent-2k-Finance\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T14:01:42.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\Urgent-2k-Finance\\Urgent-2k-Finance\\appsettings.json",
+              "RelativeDocumentMoniker": "Urgent-2k-Finance\\appsettings.json",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\Urgent-2k-Finance\\Urgent-2k-Finance\\appsettings.json",
+              "RelativeToolTip": "Urgent-2k-Finance\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-18T14:00:09.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\Urgent-2k-Finance\\Urgent-2k-Finance\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Urgent-2k-Finance\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\Urgent-2k-Finance\\Urgent-2k-Finance\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Urgent-2k-Finance\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:59:08.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Urgent-2k-Finance",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\Urgent-2k-Finance\\Urgent-2k-Finance\\Urgent-2k-Finance.csproj",
+              "RelativeDocumentMoniker": "Urgent-2k-Finance\\Urgent-2k-Finance.csproj",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\Urgent-2k-Finance\\Urgent-2k-Finance\\Urgent-2k-Finance.csproj",
+              "RelativeToolTip": "Urgent-2k-Finance\\Urgent-2k-Finance.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-18T13:56:53.615Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
