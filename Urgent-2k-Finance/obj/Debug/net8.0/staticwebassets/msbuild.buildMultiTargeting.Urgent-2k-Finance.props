@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Urgent-2k-Finance.props" />
+</Project>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Urgent-2k-Finance.props" />
+</Project>
