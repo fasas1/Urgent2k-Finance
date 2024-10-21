@@ -9,8 +9,8 @@ namespace Urgent_2k_Finance.Models
         public string AccountNumber { get; set; }
         public decimal Balance { get; set; }
         public string AccountType { get; set; }
-        public string? UserId { get; set; }
-        public ApplicationUser? ApplicationUser { get; set; } // Foreign key to ApplicationUser
+        public string ApplicationUserId { get; set; }
+        public virtual ApplicationUser ApplicationUser { get; set; } // Foreign key to ApplicationUser
     }
 
 }

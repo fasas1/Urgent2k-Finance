@@ -2,6 +2,8 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Urgent_2k_Finance.Data;
 using Urgent_2k_Finance.Models;
+using Urgent_2k_Finance.Repository;
+using Urgent_2k_Finance.Repository.IRepository;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -18,6 +20,10 @@ builder.Services.AddDbContext<ApplicationDbContext>(option =>
 });
 
 builder.Services.AddIdentity<ApplicationUser, IdentityRole>().AddEntityFrameworkStores<ApplicationDbContext>();
+builder.Services.AddScoped<IBankAccountRepository, BankAccountRepository>();
+
+
+
 
 var app = builder.Build();
 

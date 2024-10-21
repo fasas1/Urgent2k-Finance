@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Urgent_2k_Finance.Data;
 
@@ -11,9 +12,11 @@ using Urgent_2k_Finance.Data;
 namespace Urgent_2k_Finance.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20241021082426_AddApplicationUserId")]
+    partial class AddApplicationUserId
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -163,9 +166,20 @@ namespace Urgent_2k_Finance.Migrations
                     b.Property<int>("AccessFailedCount")
                         .HasColumnType("int");
 
+                    b.Property<string>("Address")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("BVN")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("ConcurrencyStamp")
                         .IsConcurrencyToken()
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("CreatedAt")
+                        .HasColumnType("datetime2");
 
                     b.Property<DateTime>("DateOfBirth")
                         .HasColumnType("datetime2");
@@ -235,7 +249,10 @@ namespace Urgent_2k_Finance.Migrations
                         {
                             Id = "1",
                             AccessFailedCount = 0,
-                            ConcurrencyStamp = "97284789-e5b6-415e-881d-72b1bb5dcfbd",
+                            Address = "23 Iyanapaja Lagos",
+                            BVN = "12345678901",
+                            ConcurrencyStamp = "76b94a64-1bdd-4a2d-90be-80f9a89fba64",
+                            CreatedAt = new DateTime(2024, 10, 21, 8, 24, 25, 308, DateTimeKind.Utc).AddTicks(358),
                             DateOfBirth = new DateTime(1993, 2, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             Email = "ade1@example.com",
                             EmailConfirmed = false,
@@ -243,7 +260,7 @@ namespace Urgent_2k_Finance.Migrations
                             KYCStatus = "Verified",
                             LockoutEnabled = false,
                             PhoneNumberConfirmed = false,
-                            SecurityStamp = "19064c6c-4d82-464a-ba47-58f577f1440e",
+                            SecurityStamp = "92ad6558-6b17-4e98-8aa1-64f4f5af9ed9",
                             TwoFactorEnabled = false,
                             UserName = "ade1@gmail.com"
                         },
@@ -251,7 +268,10 @@ namespace Urgent_2k_Finance.Migrations
                         {
                             Id = "2",
                             AccessFailedCount = 0,
-                            ConcurrencyStamp = "649503dc-fe4a-42b2-989a-4c800231abb5",
+                            Address = "456 Elm St Ketu, Lagos",
+                            BVN = "10987654321",
+                            ConcurrencyStamp = "132d1d21-789a-4227-bc1b-1cb6bfef31fc",
+                            CreatedAt = new DateTime(2024, 10, 21, 8, 24, 25, 308, DateTimeKind.Utc).AddTicks(390),
                             DateOfBirth = new DateTime(1985, 5, 15, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             Email = "audu@gmail.com",
                             EmailConfirmed = false,
@@ -259,7 +279,7 @@ namespace Urgent_2k_Finance.Migrations
                             KYCStatus = "Pending",
                             LockoutEnabled = false,
                             PhoneNumberConfirmed = false,
-                            SecurityStamp = "da89516b-5954-428f-8ac0-f5226bae85ec",
+                            SecurityStamp = "37f982ec-11f3-47fc-8e2f-5a8171450a36",
                             TwoFactorEnabled = false,
                             UserName = "audu@gmail.com"
                         });
