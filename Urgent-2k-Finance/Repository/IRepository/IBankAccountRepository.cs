@@ -7,6 +7,8 @@ namespace Urgent_2k_Finance.Repository.IRepository
     {
         Task<BankAccount> GetByAccountNumberAsync(string accountNumber);
         Task CreateAccountAsync(ApplicationUser user);
+        Task<decimal> CheckBalanceAsync(string accountNumber);
+
     }
 
 }

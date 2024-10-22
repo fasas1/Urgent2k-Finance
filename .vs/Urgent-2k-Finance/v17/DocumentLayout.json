@@ -7,16 +7,28 @@
       "RelativeMoniker": "D:0:0:{98D9EBAC-599E-4910-8A13-307B85AEDD63}|Urgent-2k-Finance\\Urgent-2k-Finance.csproj|solutionrelative:urgent-2k-finance\\controllers\\bankaccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98D9EBAC-599E-4910-8A13-307B85AEDD63}|Urgent-2k-Finance\\Urgent-2k-Finance.csproj|c:\\users\\homepc\\source\\repos\\urgent-2k-finance\\urgent-2k-finance\\repository\\bankaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98D9EBAC-599E-4910-8A13-307B85AEDD63}|Urgent-2k-Finance\\Urgent-2k-Finance.csproj|solutionrelative:urgent-2k-finance\\repository\\bankaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{98D9EBAC-599E-4910-8A13-307B85AEDD63}|Urgent-2k-Finance\\Urgent-2k-Finance.csproj|c:\\users\\homepc\\source\\repos\\urgent-2k-finance\\urgent-2k-finance\\repository\\irepository\\ibankaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98D9EBAC-599E-4910-8A13-307B85AEDD63}|Urgent-2k-Finance\\Urgent-2k-Finance.csproj|solutionrelative:urgent-2k-finance\\repository\\irepository\\ibankaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{98D9EBAC-599E-4910-8A13-307B85AEDD63}|Urgent-2k-Finance\\Urgent-2k-Finance.csproj|c:\\users\\homepc\\source\\repos\\urgent-2k-finance\\urgent-2k-finance\\repository\\bankaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D9EBAC-599E-4910-8A13-307B85AEDD63}|Urgent-2k-Finance\\Urgent-2k-Finance.csproj|solutionrelative:urgent-2k-finance\\repository\\bankaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D9EBAC-599E-4910-8A13-307B85AEDD63}|Urgent-2k-Finance\\Urgent-2k-Finance.csproj|c:\\users\\homepc\\source\\repos\\urgent-2k-finance\\urgent-2k-finance\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D9EBAC-599E-4910-8A13-307B85AEDD63}|Urgent-2k-Finance\\Urgent-2k-Finance.csproj|solutionrelative:urgent-2k-finance\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D9EBAC-599E-4910-8A13-307B85AEDD63}|Urgent-2k-Finance\\Urgent-2k-Finance.csproj|c:\\users\\homepc\\source\\repos\\urgent-2k-finance\\urgent-2k-finance\\models\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D9EBAC-599E-4910-8A13-307B85AEDD63}|Urgent-2k-Finance\\Urgent-2k-Finance.csproj|solutionrelative:urgent-2k-finance\\models\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{98D9EBAC-599E-4910-8A13-307B85AEDD63}|Urgent-2k-Finance\\Urgent-2k-Finance.csproj|c:\\users\\homepc\\source\\repos\\urgent-2k-finance\\urgent-2k-finance\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98D9EBAC-599E-4910-8A13-307B85AEDD63}|Urgent-2k-Finance\\Urgent-2k-Finance.csproj|solutionrelative:urgent-2k-finance\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D9EBAC-599E-4910-8A13-307B85AEDD63}|Urgent-2k-Finance\\Urgent-2k-Finance.csproj|c:\\users\\homepc\\source\\repos\\urgent-2k-finance\\urgent-2k-finance\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D9EBAC-599E-4910-8A13-307B85AEDD63}|Urgent-2k-Finance\\Urgent-2k-Finance.csproj|solutionrelative:urgent-2k-finance\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{98D9EBAC-599E-4910-8A13-307B85AEDD63}|Urgent-2k-Finance\\Urgent-2k-Finance.csproj|c:\\users\\homepc\\source\\repos\\urgent-2k-finance\\urgent-2k-finance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,14 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{98D9EBAC-599E-4910-8A13-307B85AEDD63}|Urgent-2k-Finance\\Urgent-2k-Finance.csproj|c:\\users\\homepc\\source\\repos\\urgent-2k-finance\\urgent-2k-finance\\models\\dto\\openaccountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98D9EBAC-599E-4910-8A13-307B85AEDD63}|Urgent-2k-Finance\\Urgent-2k-Finance.csproj|solutionrelative:urgent-2k-finance\\models\\dto\\openaccountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98D9EBAC-599E-4910-8A13-307B85AEDD63}|Urgent-2k-Finance\\Urgent-2k-Finance.csproj|c:\\users\\homepc\\source\\repos\\urgent-2k-finance\\urgent-2k-finance\\models\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98D9EBAC-599E-4910-8A13-307B85AEDD63}|Urgent-2k-Finance\\Urgent-2k-Finance.csproj|solutionrelative:urgent-2k-finance\\models\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98D9EBAC-599E-4910-8A13-307B85AEDD63}|Urgent-2k-Finance\\Urgent-2k-Finance.csproj|c:\\users\\homepc\\source\\repos\\urgent-2k-finance\\urgent-2k-finance\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98D9EBAC-599E-4910-8A13-307B85AEDD63}|Urgent-2k-Finance\\Urgent-2k-Finance.csproj|solutionrelative:urgent-2k-finance\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,30 +62,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\Urgent-2k-Finance\\Urgent-2k-Finance\\Program.cs",
-              "RelativeDocumentMoniker": "Urgent-2k-Finance\\Program.cs",
-              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\Urgent-2k-Finance\\Urgent-2k-Finance\\Program.cs",
-              "RelativeToolTip": "Urgent-2k-Finance\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\Urgent-2k-Finance\\Urgent-2k-Finance\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Urgent-2k-Finance\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\Urgent-2k-Finance\\Urgent-2k-Finance\\Repository\\Repository.cs",
+              "RelativeToolTip": "Urgent-2k-Finance\\Repository\\Repository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABgAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T10:36:04.73Z",
+              "WhenOpened": "2024-10-21T10:18:39.599Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\Urgent-2k-Finance\\Urgent-2k-Finance\\Repository\\IRepository\\IRepository.cs",
               "RelativeDocumentMoniker": "Urgent-2k-Finance\\Repository\\IRepository\\IRepository.cs",
               "ToolTip": "C:\\Users\\HomePC\\source\\repos\\Urgent-2k-Finance\\Urgent-2k-Finance\\Repository\\IRepository\\IRepository.cs",
               "RelativeToolTip": "Urgent-2k-Finance\\Repository\\IRepository\\IRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-21T10:23:44.943Z",
               "EditorCaption": ""
@@ -100,111 +104,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RegisterRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\Urgent-2k-Finance\\Urgent-2k-Finance\\Models\\Dto\\RegisterRequestDto.cs",
-              "RelativeDocumentMoniker": "Urgent-2k-Finance\\Models\\Dto\\RegisterRequestDto.cs",
-              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\Urgent-2k-Finance\\Urgent-2k-Finance\\Models\\Dto\\RegisterRequestDto.cs",
-              "RelativeToolTip": "Urgent-2k-Finance\\Models\\Dto\\RegisterRequestDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T08:35:46.767Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "KycDto.cs",
-              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\Urgent-2k-Finance\\Urgent-2k-Finance\\Models\\Dto\\KycDto.cs",
-              "RelativeDocumentMoniker": "Urgent-2k-Finance\\Models\\Dto\\KycDto.cs",
-              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\Urgent-2k-Finance\\Urgent-2k-Finance\\Models\\Dto\\KycDto.cs",
-              "RelativeToolTip": "Urgent-2k-Finance\\Models\\Dto\\KycDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T08:35:49.865Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "BankAccountController.cs",
               "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\Urgent-2k-Finance\\Urgent-2k-Finance\\Controllers\\BankAccountController.cs",
               "RelativeDocumentMoniker": "Urgent-2k-Finance\\Controllers\\BankAccountController.cs",
-              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\Urgent-2k-Finance\\Urgent-2k-Finance\\Controllers\\BankAccountController.cs*",
-              "RelativeToolTip": "Urgent-2k-Finance\\Controllers\\BankAccountController.cs*",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAqwEcAAAAAAAAA",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\Urgent-2k-Finance\\Urgent-2k-Finance\\Controllers\\BankAccountController.cs",
+              "RelativeToolTip": "Urgent-2k-Finance\\Controllers\\BankAccountController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAwwEkAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-21T08:32:20.733Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "IBankAccountRepository.cs",
               "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\Urgent-2k-Finance\\Urgent-2k-Finance\\Repository\\IRepository\\IBankAccountRepository.cs",
               "RelativeDocumentMoniker": "Urgent-2k-Finance\\Repository\\IRepository\\IBankAccountRepository.cs",
               "ToolTip": "C:\\Users\\HomePC\\source\\repos\\Urgent-2k-Finance\\Urgent-2k-Finance\\Repository\\IRepository\\IBankAccountRepository.cs",
               "RelativeToolTip": "Urgent-2k-Finance\\Repository\\IRepository\\IBankAccountRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-21T08:40:47.422Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BankAccountRepository.cs",
               "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\Urgent-2k-Finance\\Urgent-2k-Finance\\Repository\\BankAccountRepository.cs",
               "RelativeDocumentMoniker": "Urgent-2k-Finance\\Repository\\BankAccountRepository.cs",
-              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\Urgent-2k-Finance\\Urgent-2k-Finance\\Repository\\BankAccountRepository.cs",
-              "RelativeToolTip": "Urgent-2k-Finance\\Repository\\BankAccountRepository.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAmwBAAAAAJAAAA",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\Urgent-2k-Finance\\Urgent-2k-Finance\\Repository\\BankAccountRepository.cs*",
+              "RelativeToolTip": "Urgent-2k-Finance\\Repository\\BankAccountRepository.cs*",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAADAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-21T08:40:23.235Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "20241021094551_UpdatedTheApplicationModel.cs",
-              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\Urgent-2k-Finance\\Urgent-2k-Finance\\Migrations\\20241021094551_UpdatedTheApplicationModel.cs",
-              "RelativeDocumentMoniker": "Urgent-2k-Finance\\Migrations\\20241021094551_UpdatedTheApplicationModel.cs",
-              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\Urgent-2k-Finance\\Urgent-2k-Finance\\Migrations\\20241021094551_UpdatedTheApplicationModel.cs",
-              "RelativeToolTip": "Urgent-2k-Finance\\Migrations\\20241021094551_UpdatedTheApplicationModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T09:45:51.568Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\Urgent-2k-Finance\\Urgent-2k-Finance\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Urgent-2k-Finance\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\Urgent-2k-Finance\\Urgent-2k-Finance\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Urgent-2k-Finance\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAAACkAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T08:21:48.812Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "OpenAccountDto.cs",
-              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\Urgent-2k-Finance\\Urgent-2k-Finance\\Models\\Dto\\OpenAccountDto.cs",
-              "RelativeDocumentMoniker": "Urgent-2k-Finance\\Models\\Dto\\OpenAccountDto.cs",
-              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\Urgent-2k-Finance\\Urgent-2k-Finance\\Models\\Dto\\OpenAccountDto.cs",
-              "RelativeToolTip": "Urgent-2k-Finance\\Models\\Dto\\OpenAccountDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T09:42:51.775Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "BankAccount.cs",
               "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\Urgent-2k-Finance\\Urgent-2k-Finance\\Models\\BankAccount.cs",
               "RelativeDocumentMoniker": "Urgent-2k-Finance\\Models\\BankAccount.cs",
@@ -217,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 6,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\Urgent-2k-Finance\\Urgent-2k-Finance\\Models\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "Urgent-2k-Finance\\Models\\ApplicationUser.cs",
@@ -226,6 +165,84 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-21T09:08:07.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\Urgent-2k-Finance\\Urgent-2k-Finance\\Program.cs",
+              "RelativeDocumentMoniker": "Urgent-2k-Finance\\Program.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\Urgent-2k-Finance\\Urgent-2k-Finance\\Program.cs",
+              "RelativeToolTip": "Urgent-2k-Finance\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T10:36:04.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\Urgent-2k-Finance\\Urgent-2k-Finance\\Models\\Dto\\RegisterRequestDto.cs",
+              "RelativeDocumentMoniker": "Urgent-2k-Finance\\Models\\Dto\\RegisterRequestDto.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\Urgent-2k-Finance\\Urgent-2k-Finance\\Models\\Dto\\RegisterRequestDto.cs",
+              "RelativeToolTip": "Urgent-2k-Finance\\Models\\Dto\\RegisterRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:35:46.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KycDto.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\Urgent-2k-Finance\\Urgent-2k-Finance\\Models\\Dto\\KycDto.cs",
+              "RelativeDocumentMoniker": "Urgent-2k-Finance\\Models\\Dto\\KycDto.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\Urgent-2k-Finance\\Urgent-2k-Finance\\Models\\Dto\\KycDto.cs",
+              "RelativeToolTip": "Urgent-2k-Finance\\Models\\Dto\\KycDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:35:49.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241021094551_UpdatedTheApplicationModel.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\Urgent-2k-Finance\\Urgent-2k-Finance\\Migrations\\20241021094551_UpdatedTheApplicationModel.cs",
+              "RelativeDocumentMoniker": "Urgent-2k-Finance\\Migrations\\20241021094551_UpdatedTheApplicationModel.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\Urgent-2k-Finance\\Urgent-2k-Finance\\Migrations\\20241021094551_UpdatedTheApplicationModel.cs",
+              "RelativeToolTip": "Urgent-2k-Finance\\Migrations\\20241021094551_UpdatedTheApplicationModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:45:51.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\Urgent-2k-Finance\\Urgent-2k-Finance\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Urgent-2k-Finance\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\Urgent-2k-Finance\\Urgent-2k-Finance\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Urgent-2k-Finance\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:21:48.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OpenAccountDto.cs",
+              "DocumentMoniker": "C:\\Users\\HomePC\\source\\repos\\Urgent-2k-Finance\\Urgent-2k-Finance\\Models\\Dto\\OpenAccountDto.cs",
+              "RelativeDocumentMoniker": "Urgent-2k-Finance\\Models\\Dto\\OpenAccountDto.cs",
+              "ToolTip": "C:\\Users\\HomePC\\source\\repos\\Urgent-2k-Finance\\Urgent-2k-Finance\\Models\\Dto\\OpenAccountDto.cs",
+              "RelativeToolTip": "Urgent-2k-Finance\\Models\\Dto\\OpenAccountDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:42:51.775Z",
               "EditorCaption": ""
             }
           ]

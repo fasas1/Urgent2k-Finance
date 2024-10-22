@@ -20,6 +20,11 @@ namespace Urgent_2k_Finance.Repository
             await dbSet.AddAsync(entity);
             await SaveAsync();
         }
+        public async Task FindAsync(T entity)
+        {
+            await dbSet.FindAsync(entity);
+            await SaveAsync();
+        }
         public async Task RemoveAsync(T entity)
         {
              dbSet.Remove(entity);

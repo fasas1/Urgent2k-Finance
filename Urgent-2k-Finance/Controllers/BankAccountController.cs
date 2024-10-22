@@ -52,7 +52,7 @@ namespace Urgent_2k_Finance.Controllers
           return BadRequest(result.Errors);
       }
 
-        [HttpPost("kyc")]
+        [HttpPost("KYC")]
         public async Task<IActionResult> VerifyKYC([FromBody] KycDto model)
         {
             var user = await _userManager.FindByIdAsync(model.UserId);
@@ -70,6 +70,11 @@ namespace Urgent_2k_Finance.Controllers
             return BadRequest("KYC verification failed");
         }
 
-
+        [HttpGet("balance/{accountNumber}")]
+        public async Task<IActionResult> GetBalance(string accountNumber)
+        {
+            var balance = await _bankRepo.CheckBalanceAsync(accountNumber);
+            return Ok(balance);
+        }
     }
 }

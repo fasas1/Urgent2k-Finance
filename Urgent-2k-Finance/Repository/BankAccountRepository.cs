@@ -39,5 +39,19 @@ namespace Urgent_2k_Finance.Repository
         {
             throw new NotImplementedException();
         }
+
+        public async Task<decimal> CheckBalanceAsync(string accountNumber)
+        {
+            var account = await _db.BankAccounts.FirstOrDefaultAsync(u => u.AccountNumber == accountNumber);
+            if (account != null)
+            {
+                return account.Balance;
+            }
+            else
+            {
+
+            return 0; }
+            
+        }
     }
 }

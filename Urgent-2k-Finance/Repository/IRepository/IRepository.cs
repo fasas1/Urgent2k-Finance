@@ -10,6 +10,7 @@ namespace Urgent_2k_Finance.Repository.IRepository
         Task CreateAsync(T entity);
         Task UpdateAsync(T entity);
         Task RemoveAsync(T entity);
+        Task FindAsync(T entity);
         Task SaveAsync();
 
     }
