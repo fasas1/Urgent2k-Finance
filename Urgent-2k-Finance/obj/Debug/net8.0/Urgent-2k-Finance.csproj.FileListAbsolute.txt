@@ -146,3 +146,6 @@ C:\Users\HomePC\source\repos\Urgent-2k-Finance\Urgent-2k-Finance\obj\Debug\net8.
 C:\Users\HomePC\source\repos\Urgent-2k-Finance\Urgent-2k-Finance\obj\Debug\net8.0\Urgent-2k-Finance.pdb
 C:\Users\HomePC\source\repos\Urgent-2k-Finance\Urgent-2k-Finance\obj\Debug\net8.0\Urgent-2k-Finance.genruntimeconfig.cache
 C:\Users\HomePC\source\repos\Urgent-2k-Finance\Urgent-2k-Finance\obj\Debug\net8.0\ref\Urgent-2k-Finance.dll
+C:\Users\HomePC\source\repos\Urgent-2k-Finance\Urgent-2k-Finance\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\HomePC\source\repos\Urgent-2k-Finance\Urgent-2k-Finance\bin\Debug\net8.0\PayStack.Net.dll
+C:\Users\HomePC\source\repos\Urgent-2k-Finance\Urgent-2k-Finance\bin\Debug\net8.0\Paystack.Net.SDK.dll

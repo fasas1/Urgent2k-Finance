@@ -5,6 +5,7 @@ using Urgent_2k_Finance.Models;
 using Urgent_2k_Finance.Repository;
 using Urgent_2k_Finance.Repository.IRepository;
 
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -21,7 +22,7 @@ builder.Services.AddDbContext<ApplicationDbContext>(option =>
 
 builder.Services.AddIdentity<ApplicationUser, IdentityRole>().AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddScoped<IBankAccountRepository, BankAccountRepository>();
-
+builder.Services.AddScoped<ITransferRepository, TransferRepository>();
 
 
 

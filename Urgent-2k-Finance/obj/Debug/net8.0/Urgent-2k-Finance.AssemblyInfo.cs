@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Urgent-2k-Finance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d356eca3fce2e68f56840897e2422c92092ba9e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e03eb0b07bc92a0c9ff10bcdf4cc219249b46466")]
 [assembly: System.Reflection.AssemblyProductAttribute("Urgent-2k-Finance")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Urgent-2k-Finance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
